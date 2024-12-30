@@ -1,5 +1,3 @@
-# .github
-
 # IA Institut Group Project
 
 Bienvenue sur l'organisation **IA Institut Group Project**. Cette organisation a été créée pour faciliter les travaux de groupe et garantir une collaboration efficace et sécurisée tout en maintenant l'anonymat des dépôts individuels.

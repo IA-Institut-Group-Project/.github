@@ -9,9 +9,8 @@ Bienvenue sur l'organisation **IA Institut Group Project**. Cette organisation a
 
 ## Règles d'utilisation
 
-### 1. Permissions par équipe
-- Chaque équipe (**team**) correspond à un groupe de travail.
-- Une équipe peut **modifier uniquement le dépôt qui lui est attribué**.
+### 1. Permissions des membres
+- Ils ont l'autorisation de modifier uniquement les dépôts autorisés, ils peuvent **modifier** ces dépôts.
 - Pour tous les autres dépôts, les membres ont des permissions en **lecture seule**.
 
 ### 2. Utilisation des projets
